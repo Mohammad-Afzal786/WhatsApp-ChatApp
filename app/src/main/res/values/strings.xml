@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="verify_your_phone_number">Verify your phone number</string>
+    <string name="chatsapp_will_send_an_sms_message_to_verify_your_phone_number">ChatsApp will send an SMS message to verify your phone number.</string>
+</resources>
